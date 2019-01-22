@@ -11,7 +11,7 @@ to run notebook run command:
 
 to access notebook:
 
-go to http://localhost:8888/ 
+go to http://localhost:8888/ and enter `root`
 
 to stop running the container:
 
